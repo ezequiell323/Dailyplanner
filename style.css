@@ -52,8 +52,11 @@ body {
     background-color: #77dd77;
     color: white;
   }
+  
 
-
-
+  .textarea{
+    width: 100%;
+  }
 
   
+
