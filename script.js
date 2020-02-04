@@ -60,7 +60,7 @@ if($("#saveInfo7").attr("time")<hr){
   $("#saveInfo7").css("background-color","gray")
 }
 if($("#saveInfo8").attr("time")<hr){
-  $("#saveInfo").css("background-color","gray")
+  $("#saveInfo8").css("background-color","gray")
 }
 
 //future time outline green
